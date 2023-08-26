@@ -1,16 +1,19 @@
-### Oi! Eu sou o Caio Santos
+### Oi, Eu sou o Caio Santos!
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
           
           
 <div>
   <a href = "https://github.com/caiotiago">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiotiago&show_icons=true&locale=en&layout=compact" alt="caiotiago" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caiotiago&show_icons=true&locale=en" alt="caiotiago" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caiotiago&" alt="caiotiago" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=caiotiago&show_icons=true&locale=en&layout=compact" alt="caiotiago" /></p>
     
 </div>
 
@@ -18,11 +21,14 @@
   
    <i class="devicon-c-plain colored"></i>
    <i class="devicon-cplusplus-plain colored"></i>
+   <i class="devicon-java-plain-wordmark colored"></i>
+          
 
    <img align="center" alt="Caio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">          
   <img align="center" alt="Caio-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Caio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Caio-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 </div>
 
 ##
